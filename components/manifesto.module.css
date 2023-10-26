@@ -1,0 +1,67 @@
+.topSection {
+    padding: 50px;
+  }
+  
+.box {
+    margin-top: 140px;
+    background-color: rgb(250, 244, 240);
+    padding: 20px;
+    border-radius: 56px;
+    text-align: left;
+    font-family: 'Comic Sans MS', sans-serif;
+  }
+
+.pspacing{
+    display: flex;
+    align-items: flex-start;
+    margin-top: 5%;
+    margin-left: 20px;
+    font-size: 20px;
+  }
+
+.h2spacing {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 20px;  
+    font-size: 60px;
+  }
+
+.paraspacing {
+  margin-top: 5%;
+  margin-left: 600px;
+}
+
+.paraspacing2 {
+  margin-top: 10%;
+  margin-left: 10%;
+  font-family: 'Comic Sans MS', sans-serif;
+}
+
+.img {
+  margin-top: -20%;
+  margin-left: -1.45%;
+  margin-bottom: 5%;
+}
+
+.head{
+  margin-top: 10%;
+  padding-left: -40%;
+  padding-right: 80%;
+  font-family: 'Comic Sans MS', sans-serif;
+}
+
+.body1{
+  margin-top: -7%;
+  margin-left: 30%;
+  margin-right: 50%;
+  text-align: left;
+  font-family: 'Comic Sans MS', sans-serif;
+}
+
+.body2{
+  margin-top: -7.8%;
+  margin-left: 60%;
+  margin-right: 15%;
+  text-align: left;
+  font-family: 'Comic Sans MS', sans-serif;
+}

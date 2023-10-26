@@ -1,0 +1,60 @@
+.topSection {
+    padding: 50px;
+  }
+  
+.box {
+    margin-top: 40px;
+    background-color: rgb(238, 242, 250);
+    padding: 20px;
+    border-radius: 56px;
+    text-align: left;
+    font-family: 'Comic Sans MS', sans-serif;
+  }
+
+.pspacing{
+    display: flex;
+    align-items: flex-start;
+    margin-top: 5%;
+    margin-left: 18%;
+    font-size: 20px;
+  }
+
+.h2spacing {
+  font-family: 'Comic Sans MS', sans-serif;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 15%;  
+    font-size: 40px;
+  }
+
+.pspacing2{
+  font-family: 'Comic Sans MS', sans-serif;
+    margin-top: 15%;
+    margin-left: 39.8%;
+    font-size: 20px;
+  }
+
+.h2spacing2 {
+  font-family: 'Comic Sans MS', sans-serif;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-left: 33%;  
+    font-size: 40px;
+  }
+
+.paraspacing {
+  margin-top: 5%;
+  margin-left: 600px;
+}
+
+.img {
+    margin-top: 1%;
+    margin-left: 12.5%;
+    margin-bottom: 5%;
+  }
+
+  .img2 {
+    margin-top: 1%;
+    margin-left: 23%;
+    margin-bottom: 5%;
+  }

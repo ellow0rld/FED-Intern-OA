@@ -1,0 +1,71 @@
+.head{
+    margin-top: -8%;
+    padding: 10%;
+    font-family: 'Comic Sans MS', sans-serif;
+}
+
+.head2{
+    margin-top: -5%;
+    padding: 9%;
+    font-family: 'Comic Sans MS', sans-serif;
+}
+
+.body1{
+    margin-top: -14%;
+    margin-left: 40%;
+    margin-right: 40%;
+    text-align: left;
+    font-family: 'Comic Sans MS', sans-serif;
+}
+
+.body2{
+    margin-top: -8.3%;
+    margin-left: 65%;
+    margin-right: 15%;
+    text-align: left;
+    font-family: 'Comic Sans MS', sans-serif;
+}
+
+.box1 {
+    margin-top: -8%;
+    margin-left: 5%;
+    margin-right: 70%;
+    background-color: rgb(239, 237, 248);
+    padding: 20px;
+    border-radius: 20px;
+    text-align: left;
+    font-family: 'Comic Sans MS', sans-serif;
+  }
+
+.box2 {
+    margin-top: -14%;
+    margin-left: 33%;
+    margin-right: 40%;
+    background-color: rgb(192, 128, 252);
+    padding: 20px;
+    border-radius: 20px;
+    text-align: left;
+    font-family: 'Comic Sans MS', sans-serif;
+  }
+
+  .box3 {
+    margin-top: -15.8%;
+    margin-left: 63%;
+    margin-right: 10%;
+    background-color: rgb(246, 238, 190);
+    padding: 20px;
+    border-radius: 20px;
+    text-align: left;
+    font-family: 'Comic Sans MS', sans-serif;
+  }
+
+  .box4 {
+    margin-top: -15.8%;
+    margin-left: 93%;
+    margin-right: -20%;
+    background-color: rgb(188, 245, 249);
+    padding: 20px;
+    border-radius: 20px;
+    text-align: left;
+    font-family: 'Comic Sans MS', sans-serif;
+  }

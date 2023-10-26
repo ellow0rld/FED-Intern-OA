@@ -1,0 +1,11 @@
+.navbar{
+    margin: 20px;
+    margin-right: 20px;
+  }
+
+.body{
+    font-family: 'Roboto', sans-serif;
+    text-align: right;
+    padding: 8px;
+    margin-right: 45px;
+}

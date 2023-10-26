@@ -1,0 +1,138 @@
+.topSection {
+    padding: 50px;
+  }
+  
+.box {
+    margin-top: -2%;
+    background-color: rgb(241, 238, 254);
+    padding: 20px;
+    border-radius: 56px;
+    text-align: left;
+    font-family: 'Comic Sans MS', sans-serif;
+  }
+
+.pspacing{
+    display: flex;
+    align-items: flex-start;
+    margin-top: 5%;
+    margin-left: 18%;
+    font-size: 20px;
+  }
+
+  .subtopSection1 {
+    padding-top: 3%;
+  }
+  
+.subbox1 {
+    margin-top: 3%;
+    margin-right: 60%;
+    margin-left: 5%;
+    margin-bottom: 10%;
+    background-color: rgb(255, 255, 255);
+    padding: 6px;
+    border-radius: 15px;
+    text-align: left;
+    font-family: 'Comic Sans MS', sans-serif;
+  }
+
+.pspacing1{
+    margin-top: 0%;
+    margin-left: 5%;
+    margin-right: 10%;
+    font-size: 20px;
+  }
+
+  .subtopSection2 {
+    padding-top: 3%;
+  }
+  
+.subbox2 {
+    margin-top: 0%;
+    margin-right: -1.4%;
+    margin-left: -1.4%;
+    margin-bottom: -1.4%;
+    background-color: rgb(248, 246, 237);
+    padding: 6px;
+    border-radius: 15px;
+    text-align: left;
+    font-family: 'Comic Sans MS', sans-serif;
+  }
+
+.pspacing2{
+    margin-top: 0%;
+    margin-left: 5%;
+    margin-right: 10%;
+    font-size: 20px;
+  }
+
+  .h2subspacing {
+      margin-bottom: 2%;
+      margin-top: 5%;
+      margin-left: 5%;  
+      font-size: 20px;
+    }
+
+.h2spacing1 {
+  font-family: 'Comic Sans MS', sans-serif;
+  margin-bottom: 0px;
+  margin-top: -57%;
+  margin-left: 2%; 
+  font-size: 40px;
+      }
+
+.h2spacing {
+  font-family: 'Comic Sans MS', sans-serif;
+    margin-bottom: 0px;
+    margin-top: 5%;
+    margin-left: 2%; 
+    font-size: 40px;
+  }
+
+  .box1 {
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 70%;
+    background-color: rgb(252, 250, 234);
+    padding: 20px;
+    border-radius: 20px;
+    text-align: left;
+    font-family: 'Comic Sans MS', sans-serif;
+  }
+
+.box2 {
+    margin-top: -16.8%;
+    margin-left: 33%;
+    margin-right: 40%;
+    background-color: rgb(252, 250, 234);
+    padding: 20px;
+    border-radius: 20px;
+    text-align: left;
+    font-family: 'Comic Sans MS', sans-serif;
+  }
+
+  .box3 {
+    margin-top: -17%;
+    margin-left: 63%;
+    margin-right: 10%;
+    background-color: rgb(252, 250, 234);
+    padding: 20px;
+    border-radius: 20px;
+    text-align: left;
+    font-family: 'Comic Sans MS', sans-serif;
+  }
+
+.line{
+  margin-top: 10%;
+}
+
+.img {
+  margin-top: 1%;
+  margin-left: 23%;
+  margin-bottom: 5%;
+}
+
+.img2 {
+  margin-top: 3%;
+  margin-left: 65%;
+  margin-bottom: 0%;
+}
